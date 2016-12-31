@@ -1,0 +1,6 @@
+name: RsMainPrefix
+main: com.rsogs.nukkit.rsmainprefix.MainPrefix
+version: 1.0.0
+api: 1.0.0
+load: POSTWORLD
+author: zmdd
